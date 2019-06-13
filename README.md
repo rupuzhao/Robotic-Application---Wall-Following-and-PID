@@ -1,6 +1,6 @@
 # Robotic-Application---Wall-Following-and-PID
 
-Note: This program is made for Arduino hardware robot
+Note: This program is made for Arduino hardware robot -- “Robobulls-2017”
 
 This lab builds a library to use the distance sensors. The main task is to implement closed loop controls and wall following.
 
